@@ -7,9 +7,9 @@ framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [mathjax, quiz, bootstrap]            # {mathjax, quiz, bootstrap}
-mode        : standalone # {standalone, draft}
+mode        : selfcontained # {standalone, draft}
 
----
+--- .class1 #id1 bg-color:#EDE0CF
 ## Slide 2
 hello world!
 
