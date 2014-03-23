@@ -9,7 +9,7 @@ hitheme     : tomorrow      #
 widgets     : [mathjax, quiz, bootstrap]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 
---- .class1 #id1 bg-color:#EDE0CF
+--- .class1 #id1 bg:#EDE0CF
 ## Slide 2
 hello world!
 
